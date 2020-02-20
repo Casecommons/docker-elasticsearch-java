@@ -15,4 +15,4 @@ $ docker build -t casebook/docker-elasticsearch-java .
 $ docker tag docker-elasticsearch-java casebook/docker-elasticsearch-java:version-description
 
 ### Push the image to registry
-docker push casebook/docker-elasticsearch-java
+$ docker push casebook/docker-elasticsearch-java
